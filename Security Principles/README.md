@@ -1,4 +1,4 @@
-The CIA triad: 
+# The CIA triad: 
 - Confidentiality :
     - Ensure sensitive data only accessible to authorized people.
     - Examples:
@@ -26,3 +26,15 @@ The CIA triad:
     - Redundant internet connection
     - Disaster recovery site / Secondary data centers
    
+- Non-Repudiation :
+    - Ensures that a person or system cannot deny action they performed.
+    - This build trust and accountability in communication or transaction
+    - Examples:
+      - Digital signature
+      - Blockchain transaction
+      - Audit logs
+      - Biometric access
+      - Payment confirmation
+
+# AAA - Authentication, Authorization and Accounting
+
