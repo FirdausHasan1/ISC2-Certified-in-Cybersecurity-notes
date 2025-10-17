@@ -134,6 +134,49 @@
 - Risk Assesment:
     - Process of evaluating identified risk to understand their likelyhood and impact. Helping to prioritize them for mtigation
  
+# Risk Analysis
+
+- Definition:
+    - Process of evaluating identified risk to understand their likelyhood and impact. Helping to prioritize them for mtigation
+    
+- Qualitative:
+    - A subjective approach to access risks using descriptive categories (low, medium, high)
+    - Focuses on expert judgement without numerical data
+    - Useful when numerical data is unavailable
+ 
+- Quantitative:
+    - Data driven approach that assign numerical value to risks to calculate potential loss
+    - Uses formula like SLE, ALE and ARO
+    - Provide precise insight for decision making
+
+- Exposure Factor(EF)
+    - The percentage of an assets value that lost due to specific risk event
+    - Example:
+      - Flood damage 70% of facility. 70% is EF
+
+- Single Loss Expectancy(SLE)
+    - Expected financial loss from single risk event
+    - SLE = Asset value(AV) X Exposure Factor(EF)
+ 
+- Probability:
+    - Likelyhood a specific threat will occur
+    - Expressed as percentage
+ 
+- Likelihood:
+    - Same like probability but describe as qualitative term ( Likely or unlikely )
+    - help prioritize risk based on the perceived chance of occuring
+
+- Impact:
+    - Magnitude of effect caused by risk event
+    - High impact risk often demand more immediate attention
+ 
+- Risk tolerance:
+    - Acceptable level of variation in outcomes that organization is willing to withstand while pursuing its objective
+    - Focusing on day to day operational ability without significant disruption
+ 
+- Risk appetite:
+    - Overall level of risk an organization willing to take to achieve its strategic goal
+    - Help define boundaries for decision making and prioritization
   
 
 
