@@ -38,3 +38,53 @@
 
 # AAA - Authentication, Authorization and Accounting
 
+- Authentication:
+    - Process of verifying the identity of user to ensure that only the authorized can gain access to resources.
+    - Example:
+      - Password
+      - Biometrics
+
+- Authorization:
+    - Process of determining and granting user permission to access specific resources based on their verified identity
+    - Example:
+      - Gaining the admin access
+      - Admin only webpage
+
+- Accounting or auditing:
+    - Tracking and recording a user activities.
+    - Example:
+      - Login and logout log
+      - Command execution log
+     
+# Multi-factor authentication
+
+- Something you know:
+    - Information only the user knows
+    - Example:
+      - Password
+      - Pin
+      - Security question
+
+- Something you have:
+    - A physical item in user possession
+    - Example:
+      - Smartphone
+      - Smartcard
+      - Token
+     
+- Something you are:
+    - Unique biological characteristic
+    - Example:
+      - Fingerprint
+      - Facial features
+      - Iris biometric
+     
+- Somewhere you are:
+    - Geographic or network based location
+    - Example:
+      - Access granted based on ip location
+      - GPS
+      - WI-FI location
+     
+#
+
