@@ -86,5 +86,54 @@
       - GPS
       - WI-FI location
      
-#
+# Privacy
+
+- Refer to protection of personal informtion and adherence to law and policies governing its collection
+- Data subject:
+  - individuals whose personal information is being collected
+  - Example:
+    - Customer whose data is stored by ecommerce platform
+    
+- Controller vs Processor:
+  - Controller:
+    - Determine the purpose and means processing personal data.
+    - Example:
+      - Retail company managing customer data
+  - Processor:
+    - Process data on behalf of the controller
+    - Example:
+      - Cloud service provider hosting retail company data
+
+- Ownership:
+  - Clarifies who has the authority over data and who responsible for its security
+  - Example:
+    - Organization own operational data but must respect data subject right over their personal information
+
+- Data inventory and retention:
+  - Data inventory:
+    - Comprehensive list of all data assets including location and type
+    - Example:
+      - Tracking stored customer record, email log and billing information
+  - Retention:
+    - Policies for how long data is kept and when its deleted
+    - Example:
+      - Retaining employee tax record for seven years as required by law
+
+- Right to be forgotten:
+  - Individual can request the deletion of their personal data when its no longer necessaryor legally required to retain
+  - Example:
+    - Former user requesting the removal of their account information under GDPR
+   
+# Element of Risk Management Process
+
+- Risk Identification:
+    - Process indentifying risk that could negatively impact the organization
+    - Involves gathering input from various stakeholder, reviewing past incident and evaluating external threat
+    - Help create a comprehensive risk register that lust identified risk and their potential impact
+ 
+- Risk Assesment:
+    - Process of evaluating identified risk to understand their likelyhood and impact. Helping to prioritize them for mtigation
+ 
+  
+
 
