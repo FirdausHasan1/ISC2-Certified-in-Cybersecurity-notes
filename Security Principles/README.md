@@ -36,6 +36,8 @@
       - Biometric access
       - Payment confirmation
 
+---
+
 # AAA - Authentication, Authorization and Accounting
 
 - Authentication:
@@ -123,6 +125,9 @@
   - Individual can request the deletion of their personal data when its no longer necessaryor legally required to retain
   - Example:
     - Former user requesting the removal of their account information under GDPR
+   
+---
+
    
 # Element of Risk Management Process
 
@@ -219,6 +224,7 @@
 - Includes detail on identified risk and potetial impact
 - Help stakeholder make informed decision and prioritize resources for risk management
 
+---
 
 # Categories and Types of security control
 
@@ -236,6 +242,7 @@
   - Compensating
   - Directive
 
+---
 
 - Technical:
   - Hardware or software used to manage the resources.
@@ -269,6 +276,65 @@
     - Guards
     - Fences
     - Alarm
-   
 
+---
+
+- Deterrent:
+  - Deployed to discourage violation of security
+  - Example:
+    - Security guard
+    - Lighting
+    - Separation of duties
+   
+- Preventive:
+  - To prevent or stop unwanted activity from occuring
+  - Example:
+    - Fences
+    - Lock
+    - Firewalls
+    - Access control
+    - Pen testing
+   
+- Detective:
+  - To discover ot detect unwanted activity
+  - Example:
+    - Honey pots
+    - Security guard
+    - ids
+    - Violation report
+   
+- Compensating:
+  - Provide option to other exsting control to aid in enforcement of security policies
+  - Example:
+    - Security policy
+    - Personal supervision
+
+- Corrective:
+  - Measure taken to fix security vulnerabilitiesor mitigate damage after incident happen
+  - Example:
+    - Backup and restore
+    - Patching
+    - Anti virus
+    - Disciplinary action
+   
+- Directive:
+  - Proactive measure design to guide behavior and enforce compliance with security policies
+  - Example:
+    - Policies
+    - Procedure
+    - Guideline
+    - Verbal instruction
+   
+---
+
+# ISC2 Code of Ethics
+
+- Set of principle that guide cybersecurity professional in maintaining integrity and professionalism and responsibility while protecting the public and organization
+- Code of ethics Canon:
+  - Protect society, the common good, necessary public trust and confidence
+  - Act honorably and legally
+  - Provide diligent and competent service
+  - Advance and protect profession
+ 
+  - 
 
