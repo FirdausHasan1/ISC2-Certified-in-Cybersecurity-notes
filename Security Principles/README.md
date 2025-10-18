@@ -178,5 +178,97 @@
     - Overall level of risk an organization willing to take to achieve its strategic goal
     - Help define boundaries for decision making and prioritization
   
+# Risk Management/ Treatment Strategies
+
+- Transfer:
+    - Shift the risk to 3rd party.
+    - Reduce the organization direct responsibility
+    - Example:
+      - Purchasing cyber insurance to over data breach
+     
+- Accept:
+    - Choose to acknowledge and bear the risk without taking any action
+    - Appropriate for low impact risk
+ 
+- Accept Exemption:
+    - Formal decision to exclude certain risk from specific policies
+    - Often used when risk is deemed negligible
+    - Example:
+      - Exempting low value asset from comprehensive security measure
+
+- Exception:
+    - Temporary allowance for deviation from standard risk policies
+    - Example:
+      - Allow unsupported software temporarily while replacement procured
+     
+- Avoid:
+    - Eliminate the risk entirely by discontinuing the activity or process
+    - Best for high impact risk
+    - Example:
+      - Avoid certain vendor with history of data breach
+     
+- Mitigate:
+    - Reduce the risk to an acceptable levelby implementing control
+    - Focuses on minimizing the impact of the risk
+    - Example:
+      - Installing firewall to protect againt cyber attack
+     
+# Risk Reporting
+
+- Process of documenting risk related information to stakeholder
+- Includes detail on identified risk and potetial impact
+- Help stakeholder make informed decision and prioritize resources for risk management
+
+
+# Categories and Types of security control
+
+- Categories:
+  - Technical
+  - Managerial
+  - Operational
+  - Physical
+ 
+- Types:
+  - Preventive
+  - Deterrent
+  - Detective
+  - Corrective
+  - Compensating
+  - Directive
+
+
+- Technical:
+  - Hardware or software used to manage the resources.
+  - Example:
+    - Encryption
+    - Smart card
+    - Password
+    - Biometric
+    - Firewall
+    - Router
+
+- Managerial:
+  - Policies and procedures. Use planning assesment method to review organization ability to reduce risk
+  - Example:
+    - Policies
+    - Vendor management
+    - Hiring practice
+    - Background check
+    - Risk and vulnerability assesment
+   
+- Operational:
+  - Help ensure day to day operation comply with their overall security. Primarily implement and executed by people
+  - Example:
+    - Backup and recovery procedure
+    - Awareness training
+    - Media protection
+   
+- Physical:
+  - Focused on protection to facility and real world object
+  - Example:
+    - Guards
+    - Fences
+    - Alarm
+   
 
 
